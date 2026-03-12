@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm the Architect  👋</h1>
-  <h3>Sr. AI & Systems Architect | Kaggle Competitor | Specialized in Agentic Ecosystems & Advanced Ensembling</h3>
+  <h3> AI & Systems Architect | Kaggle Competitor | Specialized in Agentic Ecosystems & Advanced Ensembling</h3>
 </div>
 
 <p align="center">
