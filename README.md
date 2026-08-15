@@ -22,12 +22,10 @@
 ## 🚀 Featured Work
 
 | Project | What it does |
-|---|---|
+| --- | --- |
 | [ai-workflow-orchestrator](https://github.com/kizabgd123/ai-workflow-orchestrator) | Multi-agent adversarial debate engine with Elo-weighted consensus, zero-trust identity guard, and self-healing execution |
 | [judge-guard-core](https://github.com/kizabgd123/judge-guard-core) | Enforces JudgeGuard verification (hallucination / security checks) on every commit |
-| [Usisivac-V6](https://github.com/kizabgd123/Usisivac-V6-Autonomous-Kaggle) | Autonomous Kaggle pipeline — RAG over ChromaDB, 15 model versions evaluated |
-| [Diskort](https://github.com/kizabgd123/Diskort) | Go-based Discord toolkit (123★) |
-
+| [Nexus RAG Studio](https://github.com/kizabgd123/kizamladjanijebac) | Multi-agent RAG system (Reason→Act→Reflect→Verify loop) with live NotebookLM grounding and NIST AI RMF alignment |
 ---
 
 ## 🛠️ Tech Toolbox
