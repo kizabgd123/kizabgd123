@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=130&section=header&fontColor=ffffff&fontSize=30&text=Welcome+to+my+profile!&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Zoran+%7C+Kizabgd+%F0%9F%91%8B;Data+Scientist+at+Antigravity;Kaggle+Notebooks+Expert+%F0%9F%A5%87;ML+%7C+AI+%7C+Belgrade%2C+Serbia+%F0%9F%87%B7%F0%9F%87%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Zoran+%7C+Kizabgd+%F0%9F%91%8B;Agentic+AI+Engineer;Multi-Agent+Orchestration+%7C+LLM+Governance;Belgrade%2C+Serbia+%F0%9F%87%B7%F0%9F%87%B8" alt="Typing SVG" />
 
 </div>
 
@@ -10,13 +10,23 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 **Data Scientist** at **Antigravity**
+- 🛠️ **Agentic AI Engineer** — multi-agent orchestration, RAG & LLM governance
 - 📍 Based in **Belgrade, Serbia** 🇷🇸
-- 🥇 **Kaggle Notebooks Expert** — Rank 1,234 of 59,956
-- 🔬 Specialized in **AI Orchestration**, predictive modeling & ensemble ML
-- ♟️ Architect of deterministic, hash-verified AI systems
+- 🥇 **Kaggle Notebooks Expert** — Rank **734 of 61,348** (top ~1.2%)
+- 🔬 Building deterministic, self-verifying AI systems (adversarial debate + zero-trust guards)
+- ♟️ Author of [`ai-workflow-orchestrator`](https://github.com/kizabgd123/ai-workflow-orchestrator) & [`judge-guard-core`](https://github.com/kizabgd123/judge-guard-core)
 - 💬 Pronouns: **he/him**
-- 🚀 *"Walk on the block"*
+
+---
+
+## 🚀 Featured Work
+
+| Project | What it does |
+|---|---|
+| [ai-workflow-orchestrator](https://github.com/kizabgd123/ai-workflow-orchestrator) | Multi-agent adversarial debate engine with Elo-weighted consensus, zero-trust identity guard, and self-healing execution |
+| [judge-guard-core](https://github.com/kizabgd123/judge-guard-core) | Enforces JudgeGuard verification (hallucination / security checks) on every commit |
+| [Usisivac-V6](https://github.com/kizabgd123/Usisivac-V6-Autonomous-Kaggle) | Autonomous Kaggle pipeline — RAG over ChromaDB, 15 model versions evaluated |
+| [Diskort](https://github.com/kizabgd123/Diskort) | Go-based Discord toolkit (123★) |
 
 ---
 
@@ -27,22 +37,14 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### ML & Data Science
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFD700?style=for-the-badge&logo=yandex&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-337733?style=for-the-badge&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FFF?style=for-the-badge&logo=chroma&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -55,46 +57,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kizabgd123&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=A78BFA" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kizabgd123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kizabgd123/kizabgd123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kizabgd123/kizabgd123/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kizabgd123/kizabgd123/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kizabgd123&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
 ---
 
 <div align="center">
@@ -103,6 +65,8 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/kiza123123)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kizabgd123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kizabgd123/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/kizabgd123)
 
 <br/>
 
